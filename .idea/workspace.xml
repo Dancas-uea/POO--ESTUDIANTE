@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit" />
+    <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
+      <change beforePath="$PROJECT_DIR$/Semana 4/semana04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 4/semana04.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +91,7 @@
       <workItem from="1750029180484" duration="182000" />
       <workItem from="1750029534523" duration="3635000" />
       <workItem from="1750204307002" duration="986000" />
-      <workItem from="1750205786692" duration="57000" />
+      <workItem from="1750205786692" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
