@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/POO--ESTUDIANTE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -34,12 +34,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="8a8a9703-0bde-4ea5-a0e0-dadda7a93724" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dancas-uea/POO--ESTUDIANTE.git",
-    "accountId": "5da96a90-995f-4503-8301-15504aa7e067"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dancas-uea/POO--ESTUDIANTE.git&quot;,
+    &quot;accountId&quot;: &quot;5da96a90-995f-4503-8301-15504aa7e067&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -89,6 +89,7 @@
       <workItem from="1750029180484" duration="182000" />
       <workItem from="1750029534523" duration="3635000" />
       <workItem from="1750204307002" duration="986000" />
+      <workItem from="1750205786692" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
