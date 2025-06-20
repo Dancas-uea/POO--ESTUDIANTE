@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change afterPath="$PROJECT_DIR$/Semana 4/Sistema de Biblioteca--POO.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 4/semana04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 4/Sistema de Restaurante--POO.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semana 4/Eviddencia Restaurante.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +93,7 @@
       <workItem from="1750029534523" duration="3635000" />
       <workItem from="1750204307002" duration="986000" />
       <workItem from="1750205786692" duration="625000" />
-      <workItem from="1750376628731" duration="3819000" />
+      <workItem from="1750376628731" duration="4127000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
