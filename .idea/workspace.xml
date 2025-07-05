@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
+      <change afterPath="$PROJECT_DIR$/Semana 6/Aplicacion de conceptos de POO en Python.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 5/Semana 5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 5/Semana 5.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2yYsYQJl0NLoIdyEcn6P3bwIOaq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,6 +60,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Danie/PycharmProjects/PROGRAMACION ORIENTADA A OBJETOS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -96,7 +100,10 @@
       <workItem from="1750205786692" duration="625000" />
       <workItem from="1750376628731" duration="5711000" />
       <workItem from="1750548918854" duration="844000" />
-      <workItem from="1750822141198" duration="1720000" />
+      <workItem from="1750822141198" duration="2237000" />
+      <workItem from="1750905280331" duration="1868000" />
+      <workItem from="1751410886249" duration="1622000" />
+      <workItem from="1751724753568" duration="551000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
