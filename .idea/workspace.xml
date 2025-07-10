@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change afterPath="$PROJECT_DIR$/Semana 6/Aplicacion de conceptos de POO en Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana 7/Programa 1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana 7/Programa 2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +104,9 @@
       <workItem from="1750822141198" duration="2237000" />
       <workItem from="1750905280331" duration="1868000" />
       <workItem from="1751410886249" duration="1622000" />
-      <workItem from="1751724753568" duration="551000" />
+      <workItem from="1751724753568" duration="831000" />
+      <workItem from="1752030894137" duration="442000" />
+      <workItem from="1752099467589" duration="480000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
