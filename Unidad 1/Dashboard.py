@@ -32,7 +32,7 @@ def mostrar_menu():
 
     unidades = {
         '1': 'Unidad 1',
-        '2': 'Unidad 2'
+        '2': 'Unidad 2',
     }
 
     while True:
