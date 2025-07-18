@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana 8/Semana 2/Abstracción.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana 8/Semana 2/Encapsulacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana 8/Semana 2/Herencia.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 3/Programación Orientada a Objetos (POO).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 3/Programación Orientada a Objetos (POO).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 4/Sistema de Restaurante--POO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 4/Sistema de Restaurante--POO.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 5/Calculadora de Índice de Masa Corporal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 5/Calculadora de Índice de Masa Corporal.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 7/Ensayo en clase.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 7/Ensayo en clase.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 7/Programa 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 7/Programa 1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -127,7 +125,7 @@
       <workItem from="1752343912036" duration="1246000" />
       <workItem from="1752463742765" duration="716000" />
       <workItem from="1752800779397" duration="1686000" />
-      <workItem from="1752802536738" duration="469000" />
+      <workItem from="1752802536738" duration="1176000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
@@ -192,6 +190,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Segundo comit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Abstracción.coverage" NAME="Abstracción Coverage Results" MODIFIED="1752802594496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8/Semana 2" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Abstracción.coverage" NAME="Abstracción Coverage Results" MODIFIED="1752803666222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8/Semana 2" />
   </component>
 </project>
