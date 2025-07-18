@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
       <list>
         <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="SQL File" />
       </list>
     </option>
   </component>
@@ -80,7 +80,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Danie/Pictures/Screenshots/Captura de pantalla 2025-07-17 230607.png",
+    "last_opened_file_path": "C:/Users/Danie/PycharmProjects/PROGRAMACION ORIENTADA A OBJETOS/Images/Captura de pantalla 2025-07-17 230607.png",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,6 +92,10 @@
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
       "repository"
+    ],
+    "DatabaseDriversLRU": [
+      "sqlserver.localdb",
+      "mysql"
     ]
   }
 }]]></component>
@@ -144,7 +148,7 @@
       <workItem from="1752463742765" duration="716000" />
       <workItem from="1752800779397" duration="1686000" />
       <workItem from="1752802536738" duration="4477000" />
-      <workItem from="1752807321505" duration="4499000" />
+      <workItem from="1752807321505" duration="7193000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
