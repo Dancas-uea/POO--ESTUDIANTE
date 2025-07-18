@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 10/..ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 11/..ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 9/..ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 2/Abstracción.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 2/Encapsulacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 2/Herencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 2/Polimorfismo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 3/Programacion Tradicional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 3/Programacion_Orientada_a_Objetos_(POO).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 4/Sistema de Biblioteca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 4/Sistema de Restaurante.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 5/Calculadora de Indice de Masa Corporal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 6/Aplicacion de conceptos de POO en Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 7/Ensayo en Clase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 7/Programa 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 1/Semana 7/Programa 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 1/Dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 1/Semana 2/Abstracción.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 1/Semana 2/Abstracción.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 1/Semana 7/Ensayo en clase.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Unidad 1/Semana 7/Ensayo en clase.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,32 +82,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Abstracción.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dashboard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ensayo en Clase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Polimorfismo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programacion Orientada a Objetos (POO).executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Danie/PycharmProjects/PROGRAMACION ORIENTADA A OBJETOS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Abstracción.executor": "Run",
+    "Python.Dashboard.executor": "Run",
+    "Python.Ensayo en Clase.executor": "Run",
+    "Python.Polimorfismo.executor": "Run",
+    "Python.Programacion Orientada a Objetos (POO).executor": "Run",
+    "Python.ejemplo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Danie/PycharmProjects/PROGRAMACION ORIENTADA A OBJETOS/Unidad 1/Semana 7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;repository&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "repository"
     ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Danie\PycharmProjects\PROGRAMACION ORIENTADA A OBJETOS\Unidad 1\Semana 7" />
+      <recent name="C:\Users\Danie\PycharmProjects\PROGRAMACION ORIENTADA A OBJETOS\Unidad 1\Semana 6" />
+      <recent name="C:\Users\Danie\PycharmProjects\PROGRAMACION ORIENTADA A OBJETOS\Unidad 1\Semana 5" />
+      <recent name="C:\Users\Danie\PycharmProjects\PROGRAMACION ORIENTADA A OBJETOS\Unidad 1\Semana 4" />
+      <recent name="C:\Users\Danie\PycharmProjects\PROGRAMACION ORIENTADA A OBJETOS\Unidad 1\Semana 3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Danie\PycharmProjects\PROGRAMACION ORIENTADA A OBJETOS\Unidad 1\Semana 2\py" />
+      <recent name="C:\Users\Danie\PycharmProjects\PROGRAMACION ORIENTADA A OBJETOS\Unidad 1\Semana 2\ipynb" />
+      <recent name="C:\Users\Danie\PycharmProjects\PROGRAMACION ORIENTADA A OBJETOS" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -129,7 +158,7 @@
       <workItem from="1752463742765" duration="716000" />
       <workItem from="1752800779397" duration="1686000" />
       <workItem from="1752802536738" duration="4477000" />
-      <workItem from="1752807321505" duration="897000" />
+      <workItem from="1752807321505" duration="3392000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
@@ -195,9 +224,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Programacion_Orientada_a_Objetos__POO_.coverage" NAME="Programacion Orientada a Objetos (POO) Coverage Results" MODIFIED="1752803867459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8/Semana 3" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$ejemplo.coverage" NAME="ejemplo Coverage Results" MODIFIED="1752808497354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/Semana 2" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Polimorfismo.coverage" NAME="Polimorfismo Coverage Results" MODIFIED="1752803777989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8/Semana 2" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Ensayo_en_Clase.coverage" NAME="Ensayo en Clase Coverage Results" MODIFIED="1752805201744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8/Semana 7" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Abstracción.coverage" NAME="Abstracción Coverage Results" MODIFIED="1752803666222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8/Semana 2" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Dashboard.coverage" NAME="Dashboard Coverage Results" MODIFIED="1752807606285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/Semana 8" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Abstracción.coverage" NAME="Abstracción Coverage Results" MODIFIED="1752809704507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/Semana 2" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Dashboard.coverage" NAME="Dashboard Coverage Results" MODIFIED="1752810453295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
