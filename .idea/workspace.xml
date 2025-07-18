@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change afterPath="$PROJECT_DIR$/Images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Evidencia Dashboard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Evidencia1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Evidencia2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Evidencia3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Evidencia4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Evidencia5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Evidencia6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Evidencia7.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Captura de pantalla 2025-07-17 230607.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +29,7 @@
         <option value="Jupyter Notebook" />
         <option value="Python Script" />
         <option value="SQL File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -71,6 +81,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.Abstracción.executor": "Run",
     "Python.Dashboard.executor": "Run",
     "Python.Ensayo en Clase.executor": "Run",
@@ -150,7 +161,8 @@
       <workItem from="1752463742765" duration="716000" />
       <workItem from="1752800779397" duration="1686000" />
       <workItem from="1752802536738" duration="4477000" />
-      <workItem from="1752807321505" duration="7510000" />
+      <workItem from="1752807321505" duration="7556000" />
+      <workItem from="1752851454357" duration="2571000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
@@ -220,6 +232,6 @@
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Polimorfismo.coverage" NAME="Polimorfismo Coverage Results" MODIFIED="1752803777989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8/Semana 2" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Ensayo_en_Clase.coverage" NAME="Ensayo en Clase Coverage Results" MODIFIED="1752805201744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8/Semana 7" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Abstracción.coverage" NAME="Abstracción Coverage Results" MODIFIED="1752809704507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/Semana 2" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Dashboard.coverage" NAME="Dashboard Coverage Results" MODIFIED="1752811548747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Dashboard.coverage" NAME="Dashboard Coverage Results" MODIFIED="1752853704904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
