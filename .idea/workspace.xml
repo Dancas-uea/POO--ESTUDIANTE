@@ -5,60 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 1/(Semana 01) Actividad de Aprendizaje Individual Viaje a través de la Evolución de los Lenguajes de Programación - CDCC - POO.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 2/Abstracción.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 2/Encapsulación.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 2/Herencia.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 2/Polimorfismo.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 3/Programa Tradicional" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 3/Programación Orientada a Objetos" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 3/Programación Orientada a Objetos (POO).ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 3/Programación Tradicional.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 4/Evidencia Biblioteca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 4/Evidencia Restaurante 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 4/Evidencia Restaurante 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 4/Evidencia Restaurante 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 4/Sistema de Biblioteca--POO.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 4/Sistema de Restaurante--POO.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 5/Calculadora de Índice de Masa Corporal.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 5/Evidencia de ejecición del codigo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 6/Aplicacion de conceptos de POO en Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 6/Evidencia 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 6/Evidencia 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 6/Evidencia 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 6/Evidencia 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 6/Evidencia 5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 7/Ensayo en clase.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 7/Evidencia 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 7/Programa 1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 7/Programa 2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Dashboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 1/(Semana 01) Actividad de Aprendizaje Individual Viaje a través de la Evolución de los Lenguajes de Programación - CDCC - POO.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 2/Abstracción.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 2/Encapsulacion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 2/Herencia.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 2/Polimorfismo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 3/Programacion Orientada a Objetos (POO).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 3/Programacion Tradicional.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 4/Evidencia Biblioteca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 4/Evidencia Restaurante 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 4/Evidencia Restaurante 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 4/Evidencia Restaurante 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 4/Sistema de Biblioteca.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 4/Sistema de Restaurante.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 5/Calculadora de Indice de Masa Corporal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 5/Evidencia de ejecición del codigo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 6/Aplicacion de conceptos de POO en Python.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 6/Evidencia 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 6/Evidencia 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 6/Evidencia 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 6/Evidencia 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 6/Evidencia 5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 7/Ensayo en Clase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 7/Evidencia 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 7/Programa 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 8/Semana 7/Programa 2.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 10/..ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 11/..ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 9/..ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +129,7 @@
       <workItem from="1752463742765" duration="716000" />
       <workItem from="1752800779397" duration="1686000" />
       <workItem from="1752802536738" duration="4477000" />
-      <workItem from="1752807321505" duration="599000" />
+      <workItem from="1752807321505" duration="897000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
