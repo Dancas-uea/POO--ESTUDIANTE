@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change beforePath="$PROJECT_DIR$/Evidencia Dashboard.md" beforeDir="false" afterPath="$PROJECT_DIR$/Evidencia Dashboard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +72,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.Abstracción.executor": "Run",
     "Python.Dashboard.executor": "Run",
@@ -151,7 +154,7 @@
       <workItem from="1752800779397" duration="1686000" />
       <workItem from="1752802536738" duration="4477000" />
       <workItem from="1752807321505" duration="7556000" />
-      <workItem from="1752851454357" duration="2951000" />
+      <workItem from="1752851454357" duration="4477000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
