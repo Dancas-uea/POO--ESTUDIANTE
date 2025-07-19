@@ -1,0 +1,86 @@
+<html>
+<head>
+<title>Solid.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #ed864a;}
+.s1 { color: #ebebeb;}
+.s2 { color: #ed864a; font-weight: bold;}
+.s3 { color: #7ec3e6;}
+.s4 { color: #54b33e;}
+</style>
+</head>
+<body bgcolor="#131314">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+Solid.py</font>
+</center></td></tr></table>
+<pre><span class="s0">from </span><span class="s1">abc </span><span class="s0">import </span><span class="s1">ABC</span><span class="s2">, </span><span class="s1">abstractmethod</span>
+
+<span class="s3"># ---------------------------</span>
+<span class="s3"># S - Single Responsibility Principle (Responsabilidad Única)</span>
+<span class="s3"># Cada clase tiene UNA sola responsabilidad.</span>
+<span class="s3"># ---------------------------</span>
+
+<span class="s3"># Clase abstracta que define el contrato para cualquier tipo de notificación</span>
+<span class="s3"># Aplica también LSP porque cualquier subclase debe comportarse como esta clase base.</span>
+<span class="s0">class </span><span class="s1">Notificacion(ABC):</span>
+    <span class="s1">@abstractmethod</span>
+    <span class="s0">def </span><span class="s1">enviar(self</span><span class="s2">, </span><span class="s1">mensaje: str):</span>
+        <span class="s0">pass</span>
+
+<span class="s3"># Clase concreta que se encarga SOLO de enviar notificaciones por Email</span>
+<span class="s0">class </span><span class="s1">NotificacionEmail(Notificacion):</span>
+    <span class="s0">def </span><span class="s1">enviar(self</span><span class="s2">, </span><span class="s1">mensaje: str):</span>
+        <span class="s1">print(</span><span class="s4">f&quot;Enviando email: </span><span class="s0">{</span><span class="s1">mensaje</span><span class="s0">}</span><span class="s4">&quot;</span><span class="s1">)</span>
+
+<span class="s3"># Clase concreta que se encarga SOLO de enviar notificaciones por SMS</span>
+<span class="s0">class </span><span class="s1">NotificacionSMS(Notificacion):</span>
+    <span class="s0">def </span><span class="s1">enviar(self</span><span class="s2">, </span><span class="s1">mensaje: str):</span>
+        <span class="s1">print(</span><span class="s4">f&quot;Enviando SMS: </span><span class="s0">{</span><span class="s1">mensaje</span><span class="s0">}</span><span class="s4">&quot;</span><span class="s1">)</span>
+
+<span class="s3"># Clase concreta que se encarga SOLO de enviar notificaciones por WhatsApp</span>
+<span class="s0">class </span><span class="s1">NotificacionWhatsApp(Notificacion):</span>
+    <span class="s0">def </span><span class="s1">enviar(self</span><span class="s2">, </span><span class="s1">mensaje: str):</span>
+        <span class="s1">print(</span><span class="s4">f&quot;Enviando WhatsApp: </span><span class="s0">{</span><span class="s1">mensaje</span><span class="s0">}</span><span class="s4">&quot;</span><span class="s1">)</span>
+
+<span class="s3"># ---------------------------</span>
+<span class="s3"># D - Dependency Inversion Principle (Inversión de Dependencias)</span>
+<span class="s3"># ServicioNotificacion depende de la abstracción (Notificacion), no de las clases concretas.</span>
+<span class="s3"># ---------------------------</span>
+
+<span class="s0">class </span><span class="s1">ServicioNotificacion:</span>
+    <span class="s0">def </span><span class="s1">__init__(self</span><span class="s2">, </span><span class="s1">notificador: Notificacion):</span>
+        <span class="s3"># Inyectamos una implementación de Notificacion, sin importar cuál.</span>
+        <span class="s3"># Esto permite cambiar el tipo de notificación sin modificar esta clase.</span>
+        <span class="s1">self.notificador = notificador</span>
+
+    <span class="s0">def </span><span class="s1">procesar_mensaje(self</span><span class="s2">, </span><span class="s1">mensaje: str):</span>
+        <span class="s3"># Se llama al método enviar definido por la clase concreta que se haya inyectado.</span>
+        <span class="s1">self.notificador.enviar(mensaje)</span>
+
+<span class="s3"># ---------------------------</span>
+<span class="s3"># Uso del sistema</span>
+<span class="s3"># Demuestra también O - Open/Closed Principle (Abierto/Cerrado)</span>
+<span class="s3"># El sistema está abierto para extender (añadir nuevas clases como Telegram)</span>
+<span class="s3"># sin modificar las clases ya existentes.</span>
+<span class="s3"># ---------------------------</span>
+
+<span class="s3"># Creamos distintas instancias del servicio, inyectando diferentes notificaciones</span>
+<span class="s1">email = ServicioNotificacion(NotificacionEmail())        </span><span class="s3"># Email</span>
+<span class="s1">sms = ServicioNotificacion(NotificacionSMS())            </span><span class="s3"># SMS</span>
+<span class="s1">whatsapp = ServicioNotificacion(NotificacionWhatsApp())  </span><span class="s3"># WhatsApp</span>
+
+<span class="s3"># ---------------------------</span>
+<span class="s3"># Polimorfismo:</span>
+<span class="s3"># Todas las clases Notificacion implementan el mismo método 'enviar'</span>
+<span class="s3"># con comportamientos diferentes (sobreescritura).</span>
+<span class="s3"># ---------------------------</span>
+
+<span class="s3"># Se usa la misma interfaz, pero cada tipo se comporta diferente</span>
+<span class="s1">email.procesar_mensaje(</span><span class="s4">&quot;Tu suscripción fue activada.&quot;</span><span class="s1">)</span>
+<span class="s1">sms.procesar_mensaje(</span><span class="s4">&quot;Código de verificación: 123456&quot;</span><span class="s1">)</span>
+<span class="s1">whatsapp.procesar_mensaje(</span><span class="s4">&quot;¡Tu pedido está en camino!&quot;</span><span class="s1">)</span></pre>
+</body>
+</html>
