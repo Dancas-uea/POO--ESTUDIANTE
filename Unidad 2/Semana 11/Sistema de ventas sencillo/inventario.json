@@ -4,5 +4,11 @@
     "nombre": "copos",
     "cantidad": 12,
     "precio": 1.0
+  },
+  {
+    "id": 5,
+    "nombre": "Yanela",
+    "cantidad": 12,
+    "precio": 3.0
   }
 ]
