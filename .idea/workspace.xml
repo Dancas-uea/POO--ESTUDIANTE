@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 13/Aplicación GUI Básica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 14/Creación de una Aplicación de Agenda Personal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/Semana 13/..ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidad 2/Semana 14/..ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +80,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.Abstracción.executor": "Run",
     "Python.Aplicación GUI Básica.executor": "Run",
+    "Python.Creación de una Aplicación de Agenda Personal.executor": "Run",
     "Python.Dashboard.executor": "Run",
     "Python.Ensayo en Clase.executor": "Run",
     "Python.Polimorfismo.executor": "Run",
@@ -176,7 +177,8 @@
       <workItem from="1756509035461" duration="1632000" />
       <workItem from="1757022957736" duration="464000" />
       <workItem from="1757117044135" duration="2507000" />
-      <workItem from="1757797930279" duration="1161000" />
+      <workItem from="1757797930279" duration="1752000" />
+      <workItem from="1758471834948" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
