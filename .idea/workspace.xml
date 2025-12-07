@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit">
-      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 16/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 16/gui_inventario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 16/inventario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 16/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad 2/Semana 16/producto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unidad 2/Semana 16/..ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="9bda2f06-c6fb-4e96-bf07-ec592d01c42b" name="Changes" comment="Segundo comit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +178,7 @@
       <workItem from="1758471834948" duration="1214000" />
       <workItem from="1759084630114" duration="839000" />
       <workItem from="1759085525216" duration="353000" />
-      <workItem from="1759696578527" duration="7002000" />
+      <workItem from="1759696578527" duration="7533000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo comit">
       <option name="closed" value="true" />
@@ -264,7 +256,7 @@
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Ensayo_en_Clase.coverage" NAME="Ensayo en Clase Coverage Results" MODIFIED="1752805201744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8/Semana 7" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Abstracción.coverage" NAME="Abstracción Coverage Results" MODIFIED="1752809704507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1/Semana 2" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Aplicación_GUI_de_Lista_de_Tareas.coverage" NAME="Aplicación GUI de Lista de Tareas Coverage Results" MODIFIED="1759085344380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 2/Semana 15" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$main.coverage" NAME="main Coverage Results" MODIFIED="1759704090202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 2/Semana 16" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$main.coverage" NAME="main Coverage Results" MODIFIED="1759704573804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 2/Semana 16" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$producto.coverage" NAME="producto Coverage Results" MODIFIED="1755476164364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 2/Semana 9/Sistema de ventas sencillo" />
   </component>
 </project>
